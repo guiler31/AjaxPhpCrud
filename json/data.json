@@ -1,0 +1,12 @@
+{
+    "success" : true|false,
+    "data"    : {
+        "message" : "",
+        "users"   : [{
+            "ID"      : "",
+            "username" : "",
+            "email"    : "",
+            "url"      : ""
+        }, {...} ]
+    }
+}
